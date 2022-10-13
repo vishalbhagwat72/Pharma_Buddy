@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317054885151",
+    "project_id": "pharma-buddy",
+    "storage_bucket": "pharma-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317054885151:android:634a789695e6d8f942242a",
+        "android_client_info": {
+          "package_name": "com.marathidevelopers.pharmabuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317054885151-pmj8ad0gjhpqkdailcotod9c6ro1srgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHpBUNyeTJcICPjd01yOr_tCQHa73F3T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317054885151-pmj8ad0gjhpqkdailcotod9c6ro1srgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

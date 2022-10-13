@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:title="Home"
+            android:icon="@drawable/ic_baseline_home_24">
+        </item>
+
+        <item android:id="@+id/gpat"
+            android:title="GPAT Exam"
+            android:icon="@drawable/ic_baseline_auto_awesome_24">
+        </item>
+
+
+        <item android:id="@+id/share"
+            android:title="Other Apps"
+            android:icon="@drawable/ic_baseline_apps_24">
+        </item>
+
+        <item android:id="@+id/share1"
+            android:title="Share With Friends"
+            android:icon="@drawable/ic_baseline_share_24">
+        </item>
+
+        <item android:id="@+id/Rateus"
+            android:title="Rate This App"
+            android:icon="@drawable/ic_baseline_star_24">
+        </item>
+
+        <item android:id="@+id/instagram"
+            android:title="Instagram Handle"
+            android:icon="@drawable/ic_baseline_person_pin_24">
+        </item>
+
+    </group>
+
+
+</menu>
